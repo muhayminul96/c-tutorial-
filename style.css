@@ -1,0 +1,30 @@
+body {
+    padding-bottom: 200px;
+}
+
+* {
+    padding-left: 40 px ;
+
+}
+    h1 {
+    padding: 10px;
+    color: brown;
+}
+
+li {
+    color: crimson;
+    font: bold;
+}
+
+
+h1:hover {
+    background-color:yellow;
+    color: blue;
+    font-size: 40px;
+}
+
+li:hover {
+    background-color:green;
+    color: bisque;
+    font-size: 23px;
+}
